@@ -1,6 +1,6 @@
 fn main() {
     // if expressions
-    // let number = 6;
+    let mut number = 6;
 
     // if number % 4 == 0 {
     //     println!("number is divisible by 4");
